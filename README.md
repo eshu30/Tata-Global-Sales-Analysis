@@ -7,8 +7,8 @@
 **Problem Statement:** The business needed to identify top-performing international markets (excluding the UK) and high-value customers to optimize inventory and marketing strategies for the upcoming fiscal year.
 
 ## 📸 Dashboard Preview
-![Tata Dashboard](Assets/tata_dashboard.png)
-*(Note: Ensure the image file name matches exactly what is in the Assets folder)*
+
+<img width="1211" height="674" alt="image" src="https://github.com/user-attachments/assets/7b8edea8-bb1f-4186-b1bb-c3d3fcba02e3" />
 
 ## 🗝️ Key Insights Derived
 Based on the visual analysis of the dashboard:
@@ -31,10 +31,6 @@ Based on the visual analysis of the dashboard:
    - Used **Clustered Bar Charts** to compare Revenue vs. Quantity for top countries.
    - Utilized **Map Visuals** to show the global spread of product demand.
    - Implemented **Card Visuals** for immediate high-level KPI tracking.
-
-## Visuals
-<img width="1211" height="674" alt="image" src="https://github.com/user-attachments/assets/7b8edea8-bb1f-4186-b1bb-c3d3fcba02e3" />
-
 
 ## 🚀 Conclusion
 The analysis suggests that marketing efforts should be intensified in **EIRE and Netherlands** as they are the most lucrative international markets. Additionally, inventory stocking should be prioritized in **October** to prepare for the November sales surge.
