@@ -32,5 +32,9 @@ Based on the visual analysis of the dashboard:
    - Utilized **Map Visuals** to show the global spread of product demand.
    - Implemented **Card Visuals** for immediate high-level KPI tracking.
 
+## Visuals
+<img width="1211" height="674" alt="image" src="https://github.com/user-attachments/assets/7b8edea8-bb1f-4186-b1bb-c3d3fcba02e3" />
+
+
 ## 🚀 Conclusion
 The analysis suggests that marketing efforts should be intensified in **EIRE and Netherlands** as they are the most lucrative international markets. Additionally, inventory stocking should be prioritized in **October** to prepare for the November sales surge.
